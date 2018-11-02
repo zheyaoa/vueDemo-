@@ -1,0 +1,36 @@
+{
+    "ret": true,
+    "data": {
+        "allMember": [{
+            "name": "余雨欣",
+            "memberId": 1, 
+            "group": "Java小组",
+            "memberClass": "计科181班",
+            "direction": "前端",
+            "phoneNumber": "18272312238",
+            "motto": "好好学习，天天向上！",
+            "rate": "50%",
+            "notes": 5
+        }, {
+            "name": "未知新生2",
+            "memberId": 2,
+            "group": "Python小组",
+            "memberClass": "计科184班",
+            "direction": "后端",
+            "phoneNumber": "13585743459",
+            "motto": "每一天都是新的一天！",
+            "rate": "20%",
+            "notes": 3
+        }, {
+            "name": "未知新生3",
+            "memberId": 3,
+            "group": "前端小组",
+            "memberClass": "计科182班",
+            "direction": "前端",
+            "phoneNumber": "13732013453",
+            "motto": "我每天都在进步！",
+            "rate": "70%",
+            "notes": 9
+        }]
+    }
+}

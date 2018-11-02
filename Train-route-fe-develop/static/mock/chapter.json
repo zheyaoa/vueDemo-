@@ -1,0 +1,43 @@
+{
+    "ret": true,
+    "data": {
+        "frontChapter": [{
+            "name": "HTML",
+            "course": 4,
+            "people": 12,
+            "chapterId": 1
+        }, {
+            "name": "CSS",
+            "course": 5,
+            "people": 5,
+            "chapterId": 2
+        }],
+        "javaChapter": [{
+            "name": "Java基础",
+            "course": 8,
+            "people": 10,
+            "chapterId": 3
+        }, {
+            "name": "Java面向对象",
+            "course": 4,
+            "people": 9,
+            "chapterId": 4
+        }, {
+            "name": "Java与数据库",
+            "course": 3,
+            "people": 5,
+            "chapterId": 5
+        }],
+        "pythonChapter": [{
+            "name": "Python基础",
+            "course": 7,
+            "people": 5,
+            "chapterId": 6
+        }, {
+            "name": "Python网络爬虫",
+            "course": 2,
+            "people": 1,
+            "chapterId": 7
+        }]
+    }
+}

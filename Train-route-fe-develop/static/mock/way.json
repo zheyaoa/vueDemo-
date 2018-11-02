@@ -1,0 +1,36 @@
+{
+    "ret": true,
+    "data": {
+        "allWay": [{
+            "own": "HTML路线",
+            "chapter": 15,
+            "course": 60,
+            "people": 6,
+            "admin": "熊超"
+        }, {
+            "own": "CSS路线",
+            "chapter": 4,
+            "course": 12,
+            "people": 3,
+            "admin": "余雨欣"
+        }, {
+            "own": "JavaScript路线",
+            "chapter": 20,
+            "course": 80,
+            "people": 8,
+            "admin": "刘鹏浩"
+        }, {
+            "own": "Java路线",
+            "chapter": 20,
+            "course": 70,
+            "people": 8,
+            "admin": "罗伟"
+        }, {
+            "own": "MySQL路线",
+            "chapter": 14,
+            "course": 28,
+            "people": 3,
+            "admin": "石立军"
+        }]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ret": true,
+    "data": {
+        "htmlChapter": {
+            "chapterName": "HTML",
+            "chapterDescribe": "前端的基础",
+            "suggestTime": "4h",
+            "courseNumber": 6
+        },
+        "htmlCourse": [{
+            "courseTitle": "初见HTML",
+            "courseDescribe": "这节课将带着大家来看看HTML它在搭建页面时的简单作用。",
+            "courseTime": "10min",
+            "courseRank": 1,
+            "courseId": 1,
+            "courseDetail": ""
+        }, {
+            "courseTitle": "HTML的标签",
+            "courseDescribe": "这节课将带着大家来看看HTML它的一些简易标签。",
+            "courseTime": "20min",
+            "courseRank": 1,
+            "courseId": 2,
+            "courseDetail": ""
+        }, {
+            "courseTitle": "HTML之标题",
+            "courseDescribe": "这节课将带着大家来看看HTML它的各种标题标签。",
+            "courseTime": "30min",
+            "courseRank": 1,
+            "courseId": 3,
+            "courseDetail": ""
+        }, {
+            "courseTitle": "HTML的标签之分",
+            "courseDescribe": "这节课将带着大家来看看HTML的标签分类。",
+            "courseTime": "15min",
+            "courseRank": 1,
+            "courseId": 4,
+            "courseDetail": ""
+        }, {
+            "courseTitle": "HTML的页面布局",
+            "courseDescribe": "这节课将带着大家来看看HTML它在搭建页面时的最常见的布局方式。",
+            "courseTime": "40min",
+            "courseRank": 2,
+            "courseId": 5,
+            "courseDetail": ""
+        }, {
+            "courseTitle": "响应式设计",
+            "courseDescribe": "这节课将带着大家来看看什么是响应式。",
+            "courseTime": "40min",
+            "courseRank": 2,
+            "courseId": 6,
+            "courseDetail": ""
+        }, {
+            "courseTitle": "flex布局",
+            "courseDescribe": "这节课将带着大家来看看HTML中一个非常好用的布局——flex布局。",
+            "courseTime": "40min",
+            "courseRank": 2,
+            "courseId": 7,
+            "courseDetail": ""
+        }]
+    }
+}
